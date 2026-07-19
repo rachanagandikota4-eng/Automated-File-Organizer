@@ -9,3 +9,5 @@ Automated File Organizer
 Project Scope:
 The scope of this project is to automatically organize files into separate folders based on their file types, such as Images, Documents, Videos, Audio, and Archives. It improves file management, reduces manual effort, and keeps folders clean, organized, and easy to access.
 Source Code:
+https://github.com/rachanagandikota4-eng/Automated-File-Organizer/blob/main/afo.py
+
