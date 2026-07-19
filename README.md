@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/50f37703-cfb3-460c-b46b-a2d68d54507e" /># Automated-File-Organizer
+# Automated-File-Organizer
 A Python-based application that automatically organizes files into separate folders based on their file types (Images, Documents, Videos, Audio, Archives, etc.). This project helps users keep their folders clean and well-organized by sorting files automatically.
 
 Intern Details:
